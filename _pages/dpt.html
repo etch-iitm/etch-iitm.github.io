@@ -1,0 +1,23 @@
+---
+layout: default
+title: Department
+permalink: /dpt/
+---
+<section class="dpt">
+  <a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
+  <div class="about_box">
+    <div class="author">
+        <div class="author_image">
+          <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="Author image">
+        </div>
+        <div class="author_info">
+          <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}The Etch Team{% endif %}</h2>
+          <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}The Department of Metallurgical and Materials Engineering, IIT Madras, is undoubtedly recognised as one of the best across the nation.The magazine aims to sieve out few of the countless highlights of the department to everyone willing to know about the department and take great pleasure in showcasing our work, culture and tradition to the techinal, student, research and general community through the magazine.{% endif %}</p>
+        </div>
+      </div>
+
+      <div class="about_social">
+        {% include social_footer.html %}
+      </div>
+    </div> <!-- End Section Author -->
+</section>

@@ -1,15 +1,30 @@
 ---
 layout: post
-title: "Sweden: Beautiful forest"
-img: sweden.jpg # Add image post (optional)
+title: "Faculty Interview: Dr. Somnath Bhattacharyya"
+img: SB.jpg # Add image post (optional)
 date: 2017-07-05 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Sweden, Travel, Forest]
+tag: [Faculty Interview]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+> Dr.Somnath Bhattacharyya joined the department in August 2015. He specializes in the field of nanoscopy and characterisation.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+### How did you get into the field of metallurgy?
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+When I was pursuing my bachelor’s I took up this field because of its job opportunities. Back then I wanted to pursue electrical engineering, but was unable to do so. My interest in the field of metallurgy grew over time. This interest came from my interest in physics. After my bachelor’s I took up a job, after which I decided to move back into academia.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+### How has your experience in academia been like?
+I’ve worked in multiple universities in the past. I’ve worked in Germany, US and India. I have worked on the areas of electron microscopy. I have worked on developing new methodologies for scanning and transmission electron microscopy. In this time I was really able to pursue my interest in physics and microscopy.
+
+### In the light of the recent microscope acquisitions of the institute, what do you feel about the facilities present for electron microscopy here and abroad?
+
+The amount of technology present in the world is immense. TITAN (the microscope recently acquired by IITM) is one of those incredible technologies. There are many microscopes with equally incredible functions abroad as well. It comes down to two factors: aberrations and resolving power. Right now we can get resolving power in the order of angstroms, which is a truly fascinating achievement.
+
+### How has your first year at IITM been like?
+
+Oh! It’s been a wonderful experience here. After coming here I found it a pleasant change. The campus is full of life and the environment is calm and nice. I’ve enjoyed my time in this department as well. There are numerous opportunities for students here. There are faculty who specialize in all kinds of areas in our department. Although the job packages may not seem as great as those of CS and electrical departments, we have a department which can nurture the students to grow in it. Above all, I find the people here very friendly in our department. They have been very kind and helpful to me.
+
+### Do you have any advice for students?
+
+Pay attention in classes, keep a lookout for opportunities. It will help expose you to academia which will definitely benefit you.
+Last but not the least, are there any interesting incidents you would like to share with us?
+During my presentation/interview for this job I had a bad toothache. When this happened, our HoD, Prof. B.S. Murty, helped me out by taking me to the hospital. This goes to show how friendly most of our department is!
