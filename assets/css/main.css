@@ -4358,6 +4358,11 @@ cite {
   display: inline-block;
 }
 
+.post_image img {
+  /*Fit image to right dimensions instead of stretching*/
+  object-fit: cover;
+}
+
 .author {
   padding: 2rem 0;
   margin-bottom: 1.5rem;

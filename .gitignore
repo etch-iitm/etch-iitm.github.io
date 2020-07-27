@@ -1,5 +1,8 @@
 _site
-.sass-cache
-.jekyll-metadata
+.sass-cache/
+.jekyll-metadata/
+.jekyll-cache/
+.history/
 node_modules/
 yarn.lock
+Gemfile.lock

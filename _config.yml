@@ -1,9 +1,8 @@
 logo: # add logo name
 title: Etch
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ETCH is the department magazine of Metallurgical and Materials Engineering, IIT Madras.
+  We conduct interviews of eminent metallurgists and materials engineers and collate relevant research.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 #baseurl : ""
@@ -45,13 +44,8 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
+plugins: [jekyll-paginate,jekyll-sitemap]
+gems: [jekyll-paginate,jekyll-sitemap]
 
 include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude: ["node_modules", ".history", "gulpfile.js", "package.json", "yarn.lock", "Gemfile.lock"]
