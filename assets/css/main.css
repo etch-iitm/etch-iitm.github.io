@@ -4627,6 +4627,13 @@ cite {
           transform: translate(-50%, -50%);
   width: 960px;
   max-width: 100%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container_contact a {
+  font-size: 1.2rem;
+  color: #ffffff;
 }
 
 .container_contact .form_title {
